@@ -1,19 +1,44 @@
+* {
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: Helvetica;
+}
+.puppy {
+	font-family: Arial
+}
+header {
+	background: pink;
+	border: 1px solid white;
+}
+h1 {
+	font-size: 4em;
+}
 body {
 	background: gray;
-	font-family: "sans-serif", Arial;
 }
 h1 {
 	color: white;
-	text-align: center;
 }
 p {
 	color: white;
-	text-align: center;
+}
+.kitten {
+	text-align: left;
+	line-height: 1.5em;
+}
+.paragraph {
+	width: 45ex;
+	display: inline-block;
 }
 img {
-	 display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 40%;
-  max-height: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+footer {
+	background: pink;
+	border: 1px solid white;
 }
