@@ -1,2 +1,0 @@
-# MySite
-Rampup Site
